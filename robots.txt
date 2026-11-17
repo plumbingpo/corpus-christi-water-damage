@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationcorpuschristi.com/sitemap.xml
